@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "zp-dev": "zbrojni-prukaz---development",
+    "zp": "zbrojni-prukaz-bf712",
+    "pj-dev": "prawo-jazdy---development",
+    "pj": "prawo-jazdy---production",
+    "pp-dev": "plavebni-prukaz---develo-e5a24",
+    "pp": "plavebni-prukaz---develo-e5a24",
+    "au-dev": "autoskola---development",
+    "au": "autoskola---production"    
+  }
+}
